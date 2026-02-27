@@ -1,0 +1,27 @@
+# Local environment/secrets
+.env
+.env.*
+!.env.example
+
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS/editor noise
+.DS_Store
+.vscode/
+
+# Local execution/evidence artifacts
+.sisyphus/
+
+# Private operation notes
+BUS_WATCHER.md

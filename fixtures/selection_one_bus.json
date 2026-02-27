@@ -1,0 +1,12 @@
+{
+  "nearest": {
+    "route_id": "6-2",
+    "vehicle_id": "GG70A1001",
+    "direction": "GEUMJEONG",
+    "latitude": 37.401,
+    "longitude": 126.922,
+    "station_seq": 18
+  },
+  "next": null,
+  "reason": "insufficient_vehicles"
+}
