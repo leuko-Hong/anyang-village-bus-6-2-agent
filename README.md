@@ -1,4 +1,4 @@
-# Anyang Bus 6-2 Voice Agent
+# Anyang Village Bus 6-2 Voice Agent
 
 Python voice-query agent scaffold for Anyang village bus route 6-2 (Geumjeong direction).
 
